@@ -1,0 +1,20 @@
+@font-face {
+font-family: "PFAgoraSansPro-light";
+src: url("fonts/pfagorasanspro-light.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "PFAgoraSansPro-thin";
+    src: url("fonts/pfagorasanspro-thin.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "PFAgoraSansPro-xthin";
+    src: url("fonts/pfagorasanspro-xthin.ttf") format("truetype");
+    /*font-style: normal;*/
+    /*font-weight: normal;*/
+}
